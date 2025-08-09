@@ -1,2 +1,4 @@
 hello all
-abcde
+good morning , 
+how is your class going
+what you learned about aws and devops
